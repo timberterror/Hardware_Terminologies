@@ -1,0 +1,55 @@
+body{
+	background-image: url(backgrounddevice.jfif);
+	text-align: center;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size: cover;
+	}
+h1{
+	color: white;
+	font-size: 60;
+	text-decoration: underline;
+}
+ul{
+	margin-left: 140px;
+	margin-right: 0px;
+	text-align: left;
+}
+
+div.one {
+	width: 500px;
+	padding: 20px;
+	border: 2px black solid;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: pink;
+}
+
+p {
+	font-size: 16pt;
+}
+
+img.right {
+	float: right;
+	margin-left: 20px;
+	width: 200px;
+	border: 4px black solid;
+}
+
+img.left {
+	float: left;
+	margin-left: 20px;
+	width: 200px;
+	border: 4px black solid;
+}
+
+div.two {
+	width: 500px;
+	padding: 20px;
+	border: 2px black solid;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: pink;
+}
